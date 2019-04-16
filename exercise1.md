@@ -1,6 +1,6 @@
 **통신QM Unit 이호영 선임(09340)**
 
-<Exercise. Spark Core>
+<Exercise. Explore RDDs Using the Spark Shell>
 -------------------------
 **1. Pre-requisite to the exercise**
 
